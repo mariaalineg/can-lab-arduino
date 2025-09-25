@@ -1,2 +1,3 @@
 # can-lab-arduino
-Low-cost CAN analyzer + didactic BIS simulator (Arduino + MCP2515). SIoT 2025.
+Low-cost, classroom-ready CAN analyzer and BIS simulator using Arduino + MCP2515. 
+Real-time capture/decoding via CANHacker; includes logs and scripts for basic throughput/latency evaluation.
